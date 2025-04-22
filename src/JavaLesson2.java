@@ -53,7 +53,7 @@ public class JavaLesson2 {
 		 int quantity = scanner.nextInt();
 		 
 		 int total = price * quantity;
-		 
+		  
 		 System.out.println("商品:" +productName +"は価格:" +price +"円なので" +quantity +
 				 "個買うと" +total+"円です。");
 		 

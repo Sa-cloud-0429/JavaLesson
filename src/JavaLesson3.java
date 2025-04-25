@@ -25,6 +25,7 @@ public class JavaLesson3 {
 		}else {
 			System.out.println(value +"円");
 			
+		scanner.close();
 		}
 	}
 }

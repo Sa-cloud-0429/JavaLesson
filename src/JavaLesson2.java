@@ -57,8 +57,16 @@ public class JavaLesson2 {
 		 System.out.println("商品:" +productName +"は価格:" +price +"円なので" +quantity +
 				 "個買うと" +total+"円です。");
 		 
-		 scanner.close();	 
+		 scanner.close();
 		 
+		 for( int j = 1; j<=10; j++) {
+				System.out.println(j);
+				for ( int k =10; k<=20; k++) {
+					System.out.println(k);
+				}
+		 
+		 }
 	}
-	}
+}
+
 
